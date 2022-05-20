@@ -1,2 +1,2 @@
-# Config files and wallpapers for my build of dwm
+# Configs and wallpapers for my build of dwm
 
